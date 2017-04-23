@@ -1,5 +1,5 @@
 # hello-world
 A short program returning the message "Hello world!"
-What's up people?
-somehow I can't seem to figure this out...
+
+So now it seems I finally have figured things out... hahahaha
 
